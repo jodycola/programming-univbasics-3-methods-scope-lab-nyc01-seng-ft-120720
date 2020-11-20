@@ -14,9 +14,7 @@ def link
 end
 
 def all_phrases
-  describe = 
   mario
   toadstool
   link
-  
 end
