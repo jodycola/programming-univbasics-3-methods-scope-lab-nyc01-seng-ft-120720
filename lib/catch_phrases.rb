@@ -9,6 +9,10 @@ def toadstool
 end
 
 def link
-  all_
-  puts out 'It's Dangerous To Go Alone! Take This.
+  output = 'It\'s Dangerous To Go Alone! Take This.'
+  puts output
+end
+
+def all_phrases
+
 end
